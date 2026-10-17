@@ -1,0 +1,1 @@
+int mont_carlo(char ** command);
